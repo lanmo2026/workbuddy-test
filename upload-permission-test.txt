@@ -1,0 +1,3 @@
+WorkBuddy GitHub 上传权限测试文件。
+创建时间：2026-11-19 03:03 GMT+8
+用途：验证 create/update file 权限，验证后立即删除。
